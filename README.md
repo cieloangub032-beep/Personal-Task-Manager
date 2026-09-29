@@ -1,32 +1,36 @@
-# Personal Task Manager System
+# Personal Task Manager
 
-## Project Identification
+**Project Code:** WST21-PM-2026-SF  
 
-- **Project Code:** WST21-PM-2026-SF
-- **Developer:** Batong, Cielo
-- **Academic Level:** BSIT - 2nd Year
+**Student Name:** Batong Cielo  
 
-## Tech Stack & Tools
+**Course & Year:** BSIT 2nd Year  
 
-- Framework: Laravel
-- Language: PHP
-- Database: SQLite
-- Frontend Architecture: Blade & Bootstrap 5
+**Database Used:** MySQL  
 
-## System Features
+## Features
 
-- Record and create new personal tasks
-- View and organize task directories
-- Update task details and descriptions
-- Remove completed or unwanted tasks
-- Track completion progress
+- **Add Task**
+<p align="center">
+  <img src="images/AddTask.jpg" alt="Add Task" width="600">
+</p>
 
-## Database Configuration
+- **View Tasks**
+<p align="center">
+  <img src="images/ViewTask.jpg" alt="View Tasks" width="600">
+</p>
 
-The application is configured to run efficiently using a lightweight SQLite database setup.
+- **Edit Task**
+<p align="center">
+  <img src="images/EditTask.jpg" alt="Edit Task" width="600">
+</p>
 
-## Workflow Structure
+- **Delete Task**
+<p align="center">
+  <img src="images/DeleteTask.jpg" alt="Delete Task" width="600">
+</p>
 
-The project follows the standard Model-View-Controller pattern:
-
-Routes ➔ Controller ➔ Model ➔ Database ➔ Views
+- **Update Status**
+<p align="center">
+  <img src="images/UpdateStatus.jpg" alt="Update Status" width="600">
+</p>
